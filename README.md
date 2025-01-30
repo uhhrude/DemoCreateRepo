@@ -1,1 +1,5 @@
-added readme
+### DemoCreatingRepo
+
+* git init
+* add gitignore
+* commit code
